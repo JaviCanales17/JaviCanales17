@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @JaviCanales17
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning for Full-Stack Developer
 - 💞️ I’m looking to collaborate on any proyect.
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
