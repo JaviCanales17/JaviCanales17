@@ -16,6 +16,7 @@ Estoy abierto a oportunidades donde pueda crecer profesionalmente, colaborar en 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
@@ -24,7 +25,7 @@ Estoy abierto a oportunidades donde pueda crecer profesionalmente, colaborar en 
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-10b981?logo=github-copilot&logoColor=white)
 
 - 🖥️   **Frontend:** HTML, CSS, JavaScript
-- 🛠️   **Backend:**  Python, Java, C#, .NET, PHP
+- 🛠️   **Backend:**  Python, Java, Kotlin, C#, .NET, PHP
 - 🗃️   **Bases de datos:** MySQL, SQL
 - 🔧   Git, GitHub, GitHub Copilot, VS Code
 
